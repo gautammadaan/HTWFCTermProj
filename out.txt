@@ -1,0 +1,1 @@
+/tmp/hadoop-sparshith/mapred/local/1429516443082/out.txt
